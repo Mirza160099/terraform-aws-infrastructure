@@ -1,8 +1,9 @@
 # Terraform AWS Infrastructure
 
-A portfolio project focused on **Infrastructure as Code engineering practices**: reusable Terraform modules, remote state, environment separation, CI validation, deployment workflow, security controls, and operational documentation.
 
-> **Portfolio status:** This is a learning/portfolio build. It does not claim to be production infrastructure from any employer or client.
+## Demo Preview
+
+![Terraform infrastructure preview](assets/dashboard-preview.png)
 
 ## Goals
 
