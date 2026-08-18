@@ -1,0 +1,3 @@
+state_bucket_name = "replace-with-globally-unique-terraform-state-bucket"
+aws_region        = "eu-west-2"
+lock_table_name   = "terraform-state-locks"
